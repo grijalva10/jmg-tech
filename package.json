@@ -17,7 +17,7 @@
     "clear:next": "rm -rf .next"
   },
   "engines": {
-    "node": "20.x"
+    "node": "^22.x"
   },
   "dependencies": {
     "@auth/core": "^0.31.0",
